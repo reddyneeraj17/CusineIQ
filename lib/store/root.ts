@@ -1,0 +1,1 @@
+// This file has been replaced by direct Supabase calls and React state management
